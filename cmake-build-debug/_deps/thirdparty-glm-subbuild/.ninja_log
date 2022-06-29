@@ -1,0 +1,19 @@
+# ninja log v5
+0	204	1656530418519943989	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-mkdir	8cd1e8626a9545b5
+0	204	1656530418519943989	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-mkdir	8cd1e8626a9545b5
+205	947	1656530419262918573	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-download	b8ab920d8f0696da
+205	947	1656530419262918573	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-download	b8ab920d8f0696da
+947	1003	1656530419319400680	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-patch	82e528944fc47427
+947	1003	1656530419319400680	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-patch	82e528944fc47427
+1003	1053	1656530419368782072	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-configure	7ac546f0d68a5dde
+1003	1053	1656530419368782072	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-configure	7ac546f0d68a5dde
+1053	1099	1656530419414985793	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-build	6b177283da832b09
+1053	1099	1656530419414985793	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-build	6b177283da832b09
+1099	1153	1656530419468426777	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-install	114078d6aa78a7b7
+1099	1153	1656530419468426777	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-install	114078d6aa78a7b7
+1153	1205	1656530419520969262	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-test	d3888c922a5d9d3d
+1153	1205	1656530419520969262	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-test	d3888c922a5d9d3d
+1206	1289	1656530419604397095	CMakeFiles/thirdparty-glm-populate-complete	69d00daa69cbbce0
+1206	1289	1656530419604397095	thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-done	69d00daa69cbbce0
+1206	1289	1656530419604397095	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/CMakeFiles/thirdparty-glm-populate-complete	69d00daa69cbbce0
+1206	1289	1656530419604397095	/Users/olivierfradette-roy/Desktop/Lab01/code/cmake-build-debug/_deps/thirdparty-glm-subbuild/thirdparty-glm-populate-prefix/src/thirdparty-glm-populate-stamp/thirdparty-glm-populate-done	69d00daa69cbbce0
